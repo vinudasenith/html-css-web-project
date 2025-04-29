@@ -27,7 +27,7 @@ health-care-website/
 ├── validation.html  
 ├── css/  
 │   └── styles.css (All CSS styling)  
-├── images/  
+├── Images/  
    └── (All images used in the website) 
 
 
